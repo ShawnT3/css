@@ -1,0 +1,44 @@
+.container {
+    font-family: "標楷體";
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+header h1 {
+    color: #140675;
+    font-style: normal;
+    font-family: "標楷體";
+    font-size: 37px;
+}
+.image1 {
+    height: 250px;
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+    background-repeat: no-repeat;
+    background-position: 48% 47%;
+    background-image: url(file:///C|/Users/Sean%20Tseng/Desktop/images.png);
+    background-size: auto auto;
+}
+article h3 {
+    background-color: #17E9C6;
+    border-radius: 8px;
+    text-align: center;
+}
+.article1 {
+    text-align: left;
+}
+
+
+
+nav {
+    font-family: "標楷體";
+}
+nav a:link {
+    color: #9220E6;
+}
+nav a:hover {
+    color: #F10B0B;
+    font-size: large;
+    font-weight: bold;
+}
