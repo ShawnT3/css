@@ -17,7 +17,7 @@ header h1 {
     margin-right: auto;
     background-repeat: no-repeat;
     background-position: 48% 47%;
-    background-image: url(file:///images.png);
+    background-image: url(file://images.png);
     background-size: auto auto;
 }
 article h3 {
